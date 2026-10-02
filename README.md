@@ -2,8 +2,13 @@
 
 > 🌸 二次元角色/今日老婆公共图片投递与收集仓库
 
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](LICENSE)
+[![Disclaimer: DMCA](https://img.shields.io/badge/Disclaimer-DMCA_Safe_Harbor-blue.svg)](DISCLAIMER.md)
+
 欢迎来到 **WaifuHub**！本仓库旨在建立一个由社区共同维护的高清、精美二次元角色图库。  
 无论你是玩家还是画师粉丝，都欢迎通过提交 **Pull Request (PR)** 为你喜爱的角色贡献图片！
+
+> ⚠️ **版权与合规声明**：本仓库为**纯非商业性社区交流项目**，所有收录图片的版权均独立归属于其原始版权方、游戏厂商及原画师所有。严禁上传任何商业付费画册扫描件或付费赞助（Fanbox/Patreon）专享图片。详细免责与权利人下架条款请查阅 [版权免责声明 (DISCLAIMER.md)](DISCLAIMER.md)。
 
 ---
 
@@ -52,12 +57,13 @@ WaifuHub/
 1. **画质与格式**：
    - 支持格式：`PNG`、`JPG` / `JPEG`、`WebP`。
    - 建议分辨率：尽量 1080P 及以上，画面清晰无明显噪点或严重拉伸。
-2. **内容合规**：
-   - 严禁提交血腥、暴力、极端恶俗或严重违反 GitHub 服务条款（TOS）的内容。
-   - 尺度以全年龄向或轻度福利为限，避免 R18 违规封禁。
-3. **版权与出处**：
-   - 鼓励在提交 PR 时注明画师 ID / Twitter / Pixiv 或官方出处，尊重创作者版权。
-4. **命名建议**：
+2. **版权与内容红线（非常重要）**：
+   - **严禁盗传商业付费画册/设定集扫描件**。
+   - **严禁上传 Fanbox / Patreon / Fantia 等付费赞助专享画作**。
+   - **严禁上传原作者明确注明“禁止转载”的作品**。
+   - 严禁提交血腥、暴力、极端裸露或违反 GitHub TOS 的内容（避免仓库被封）。
+   - 强烈建议在 PR 中注明画师 ID / Twitter / Pixiv 源链接，尊重原作者创作劳动。
+3. **命名建议**：
    - 建议使用英文、拼音、数字或原文件名（例如 `changli_01.jpg`、`pixiv_123456.png`），避免过长的特殊符号。
 
 ---
@@ -79,7 +85,11 @@ WaifuHub/
 
 ---
 
-## 📜 免责声明
+## 📜 开源协议与版权免责
 
-本仓库收录的所有图片版权归原版权方及原画师所有，仅供二次元爱好者交流学习使用。  
-如有侵权，请提交 Issue，核实后将第一时间予以删除处理。
+1. **开源协议**：  
+   本仓库代码结构与维护文档遵循 [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](LICENSE) 协议发布，**严禁任何形式的商业盈利使用**。
+2. **版权归属**：  
+   仓库内所收录的全部角色形象、官方立绘、插画素材等著作权均属于各游戏官方发行商（库洛游戏、完美世界 Hotta Studio 等）或原创同人画师所有。
+3. **避风港原则与通知删除**：  
+   本仓库为中立的社区 UGC 文件收集平台。若任何版权所有方或画师认为收录的内容侵犯了您的权利，请直接提交 [Issue](https://github.com/MimoKit/WaifuHub/issues)，我们将在 24~48 小时内核实并第一时间永久下架删除相关内容。详细条款请见 [版权免责声明 (DISCLAIMER.md)](DISCLAIMER.md)。
